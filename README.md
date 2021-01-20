@@ -4,17 +4,24 @@
 
 <img src="figs/title1.jpeg" width="500">
 
-### [Project Description](doc/)
-This is the first and only *individual* (as opposed to *team*) this semester. 
+Project Description
+This is the first and only individual (as opposed to team) this semester.
 
 Term: Spring 2021
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
+Projec title: Analysis on Election by Natutal and Enviroment Factors
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project is conducted by [Chuyun Shu]
 
-Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
+Project summary:The goal of this project is to analyze the natural and enviroment characteristics of voters from past U.S. presidential elections using the American National Election Studies (ANES) data sets. In this project I will carry out an exploratory data analysis (EDA) of survey responses from ANES and discover some interesting findings from the selected data sets. Specifically, I am interested in answering the following questions:
+
+What is a typical voter like? What are some patterns of behaviors that past voters might have?
+
+Conclusion
+
+Typical Voter Based on the above exploratory data analysis, a typical voter has the following demographic characteristics:
+White non-Hispanic; woman; aged between 45 and 64;  at least goes to some college, may or may not have degree; professional or management jobs; 
+
 
 ```
 proj/
