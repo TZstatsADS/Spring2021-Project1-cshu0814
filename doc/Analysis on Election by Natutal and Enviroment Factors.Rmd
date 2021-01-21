@@ -170,15 +170,6 @@ plot_grid(p1, p2)
 
 
 ```
-As for the gender part, we can see that in every presidential election since 1952, the proportion of women who voted has exceeded the proportion of men who voted. This is somehow surprising to me, because by intuition, I thought men had more power on political issues, so I assumed that men were more likely to vote. But it turned out that's not true. 
-
-To find out why women are more likely to vote than men, I did some research on it.
-
-The first reason which may explain this phenomenon is that women deal with government in their daily lives more than men do. Women are more dependent on safety-net services such as food stamps and child-care subsidies than men are. In addition, women are more likely than men to be primary caregivers, which means they spend more time with health-care providers and other people who are employed by the government. This additional exposure to government could potentially have a positive impact on women when it comes to voting.
-
-The second reason which may explain this is because women in America only have had the right to vote for less than a century, so they don't take it for granted and exercise it in much greater numbers and greater percentages than men. 
-
-
 
 ```{r race vote analysis, fig.height=14, fig.width=8}
 anes_vote_race_year = anes_use %>%
