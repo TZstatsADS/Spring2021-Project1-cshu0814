@@ -20,7 +20,7 @@ What is a typical voter like? What factors affect their voting result?
 Conclusion
 
 Based on the above exploratory data analysis, a typical voter has the following natural and enviroment characteristics:
-White non-Hispanic; woman; aged between 45 and 64;  at least goes to some college, may or may not have degree; professional or management jobs; 
+White non-Hispanic; woman; aged between 45 and 64;  at least goes to some college, may or may not have degree; professional or management jobs; protestant;
 
 
 ```
